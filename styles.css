@@ -21,21 +21,18 @@ main h1 {
     grid-row: 1/2;
     font-family: "Inter";
     font-weight: bold;
+    font-size: 7em;
 }
 #portrait {
     grid-column: 2/3;
     grid-row: 2/3;
     background-color: black;
-    height: 100px;
-    width: 100px;
+    height: 300px;
+    width: 300px;
 }
 #about {
     grid-column: 3/4;
     grid-row: 2/3;
     font-family: "Inter";
-
-}
-#contact {
-    grid-column: 1/5;
-    grid-row: 3/4;
+    font-size: 1.322em;
 }
